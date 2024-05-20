@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Acheter des courses",
+      "description": "Acheter du lait, du pain, des œufs et des fruits.",
+      "status": "en attente"
+    },
+    {
+      "id": 2,
+      "title": "Répondre aux emails",
+      "description": "Répondre aux emails des clients et des collègues.",
+      "status": "en cours"
+    },
+    {
+      "id": 3,
+      "title": "Faire du sport",
+      "description": "Aller courir pendant 30 minutes au parc.",
+      "status": "complété"
+    },
+    {
+      "id": 4,
+      "title": "Préparer la réunion",
+      "description": "Créer une présentation pour la réunion de demain.",
+      "status": "en attente"
+    },
+    {
+      "id": 5,
+      "title": "Nettoyer la maison",
+      "description": "Faire le ménage dans le salon et la cuisine.",
+      "status": "en cours"
+    }
+  ]
+}
